@@ -1,4 +1,4 @@
- #Hi there 👋
+#Hi there 👋
 ##About me
 -🔭A hybrid profile that combines business strategic vision with technical proficiency in Data Science. 
 -🌱 I’m currently learning and practicing SQL and Python. 
